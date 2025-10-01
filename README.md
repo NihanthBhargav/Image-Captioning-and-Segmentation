@@ -1,4 +1,4 @@
-# 🐶🐱 Image Captioning and Segmentation
+# Image Captioning and Segmentation
 
 ## 📌 Project Overview  
 This project integrates **image segmentation** and **image captioning** using the Oxford-IIIT Pet Dataset.  
@@ -27,7 +27,7 @@ This project integrates **image segmentation** and **image captioning** using th
 - ├── week9-integration.ipynb
 - ├── week10_segmentation_evaluation_metrics.ipynb
 - ├── week11_visualization.ipynb
-- ├── wek12_final_pipeline.ipynb
+- ├── week12_final_pipeline.ipynb
 - └── README.md
 
 ---
